@@ -23,7 +23,7 @@ function check(c_id)
     }
     
 
-    if (count === 0) 
+    if (count === 1) 
     {
         document.getElementById("res").textContent =
         "Your 3 chances are over. The page will be reloaded in 5 sec.";
